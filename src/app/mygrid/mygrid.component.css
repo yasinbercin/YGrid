@@ -1,0 +1,8 @@
+table ,td{
+    border:2px solid red;
+}
+
+table{
+    width:400px;
+    height: 200px;
+}
